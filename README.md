@@ -1,6 +1,6 @@
 # Option Pricing Models
 
-## Introduction : This repository represents a simple program to calculate the options prices and the option greeks using the Black-Scholes model.    
+### Introduction : This repository represents a simple program to calculate the options prices and the option greeks using the Black-Scholes model.    
 
 
 ## Some assumptions in the Black-Scholes Model
